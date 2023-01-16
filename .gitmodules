@@ -1,0 +1,3 @@
+[submodule "elk-zone-git"]
+  path = "elk-zone-git"
+  url = https://aur.archlinux.org/elk-zone-git.git
