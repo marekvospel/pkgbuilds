@@ -1,0 +1,11 @@
+pkgbase = corepack-stub
+	pkgdesc = A stub package for makepkg when using corepack
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://nodejs.org/api/corepack.html
+	arch = any
+	provides = npm
+	provides = pnpm
+	provides = yarn
+
+pkgname = corepack-stub

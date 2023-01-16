@@ -1,0 +1,8 @@
+pkgname='corepack-stub'
+pkgdesc='A stub package for makepkg when using corepack'
+url='https://nodejs.org/api/corepack.html'
+pkgver=1.0.0
+pkgrel=1
+arch=('any')
+
+provides=(npm pnpm yarn)
